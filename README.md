@@ -1,2 +1,2 @@
-# reef-sheck
+# Reef Check
 Reef Check Indicator Species
